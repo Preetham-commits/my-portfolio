@@ -1,4 +1,6 @@
-// src/components/Projects.js
+// SaiPreetham Karra
+// 301329279
+// 28-jan-2024
 
 import { CodeIcon } from "@heroicons/react/solid";
 import React from "react";

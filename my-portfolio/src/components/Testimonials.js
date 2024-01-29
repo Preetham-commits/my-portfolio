@@ -1,3 +1,6 @@
+// SaiPreetham Karra
+// 301329279
+// 28-jan-2024
 import React from "react";
 import { TerminalIcon, UsersIcon } from "@heroicons/react/solid";
 import { testimonials } from "../data";
